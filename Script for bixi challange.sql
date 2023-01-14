@@ -2,7 +2,7 @@
 
 Ariyan Nooshazar
 2022-10-02
-[Ariyan.nooshazar@gmail.com
+Ariyan.nooshazar@gmail.com
 
 */
 USE `bixi-data`;
