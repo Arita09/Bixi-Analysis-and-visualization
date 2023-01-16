@@ -1,5 +1,7 @@
 # Bixi-Analysis-and-visualization
-Analysis of how BIXI customers used their bikes in 2016 and 2017
+Analysis of how BIXI customers used their bikes in 2016 and 2017.
+Used SQL queries to generate insights from a real-world dataset stored in a relational
+database. 
 
 # Tools Used
 
